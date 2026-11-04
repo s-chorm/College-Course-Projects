@@ -31,9 +31,10 @@ int main()
     eventProfit = grossReceipts - 1450;
 
     cout << fixed << setprecision(2);
-    return 0;
 
     cout << endl << "Tickets sold = " << ticketsSold << endl;
     cout << "Gross receipts = $" << grossReceipts << endl;
     cout << "Event profit = $" << eventProfit << endl;
+
+    return 0;
 }
