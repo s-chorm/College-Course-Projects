@@ -36,5 +36,9 @@ int main()
     cout << "Gross receipts = $" << grossReceipts << endl;
     cout << "Event profit = $" << eventProfit << endl;
 
+    cin.ignore();
+    cout << "\nPress Enter to exit...";
+    cin.get();
+
     return 0;
 }
