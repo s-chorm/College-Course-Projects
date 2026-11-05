@@ -1,0 +1,2 @@
+# Intro to Computer Science II
+This folder contains all completed labs and projects for the course. All files are coded from CodeBlocks in C++. Compared to cs1, this contains more abstract ideas of coding.
