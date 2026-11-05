@@ -57,5 +57,9 @@ int main()
 
     inputFile.close();
 
+    cin.ignore();
+    cout << "\nPress Enter to exit...";
+    cin.get();
+
     return 0;
 }
