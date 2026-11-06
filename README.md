@@ -1,4 +1,4 @@
-# College-Course-Projects
+# C++ Coursework
 Contains all course projects that have been completed.
 
 # Information
